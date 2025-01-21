@@ -20,14 +20,18 @@ A collection of free courses offering Credly digital badges.
 
 ## IBM
 
-- [Web Development Fundamentals](https://www.ibm.com/training/badge/web-development-fundamentals)
-- [User Experience Design Fundamentals](https://www.ibm.com/training/badge/user-experience-design-fundamentals)
-- [Project Management Fundamentals](https://www.ibm.com/training/badge/project-management-fundamentals)
-- [Information Technology Fundamentals](https://www.ibm.com/training/badge/information-technology-fundamentals)
-- [Artificial Intelligence Fundamentals](https://www.ibm.com/training/badge/artificial-intelligence-fundamentals)
-- [Data Fundamentals](https://www.ibm.com/training/badge/data-fundamentals)
-- [Cybersecurity Fundamentals](https://www.ibm.com/training/badge/cybersecurity-fundamentals)
-- [Be an Entrepreneur](https://www.ibm.com/training/badge/be-an-entrepreneur)
+### IBM SkillsBuild
+
+| Badge | Course |
+|-------|--------|
+| ![](https://images.credly.com/size/96x96/images/0c1c6eed-818c-4f78-bfaa-7ea8704c863a/image.png) | [Web Development Fundamentals](https://www.ibm.com/training/badge/web-development-fundamentals) |
+| ![](https://images.credly.com/size/96x96/images/255f1178-a3ba-4738-a494-02b046fbec10/image.png) | [User Experience Design Fundamentals](https://www.ibm.com/training/badge/user-experience-design-fundamentals) |
+| ![](https://images.credly.com/size/96x96/images/15977e21-6a48-4c41-ac31-16883188a049/SkillsBuild_ProjectManagementFundamentals_Badge.png) | [Project Management Fundamentals](https://www.ibm.com/training/badge/project-management-fundamentals) |
+| ![](https://images.credly.com/size/96x96/images/e807f203-a235-4c69-b9ee-f31bf015af6f/image.png) | [Information Technology Fundamentals](https://www.ibm.com/training/badge/information-technology-fundamentals) |
+| ![](https://images.credly.com/size/96x96/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png) | [Artificial Intelligence Fundamentals](https://www.ibm.com/training/badge/artificial-intelligence-fundamentals) |
+| ![](https://images.credly.com/size/96x96/images/edaf0f19-2df0-4759-8871-7b1b44687f53/image.png) | [Data Fundamentals](https://www.ibm.com/training/badge/data-fundamentals) |
+| ![](https://images.credly.com/size/96x96/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png) | [Cybersecurity Fundamentals](https://www.ibm.com/training/badge/cybersecurity-fundamentals) |
+| ![](https://images.credly.com/size/96x96/images/e755df5d-0e8b-4204-97a5-1d73107a452e/image.png) | [Be an Entrepreneur](https://www.ibm.com/training/badge/be-an-entrepreneur) |
 
 ## The Linux Foundation
 
