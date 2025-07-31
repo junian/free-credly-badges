@@ -3,7 +3,7 @@
 A collection of free courses offering Credly digital badges.
 
 > [!NOTE]
-> Create a new [Credly](https://info.credly.com/) account if you haven't. I suggest to use the same email address with the course account.
+> Click [here](https://www.junian.net/tech/free-credly-badges/) for up to date content.
 
 ## Amazon
 
